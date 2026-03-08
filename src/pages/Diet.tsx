@@ -101,7 +101,7 @@ const supplements = [
   { icon: Leaf, title: "Multivitamin", desc: "Fills nutritional gaps for overall health." },
   { icon: Fish, title: "Omega-3", desc: "Reduces inflammation. 2-3g daily." },
   { icon: Sparkles, title: "Pre-Workout", desc: "Boosts energy 30 mins before training." },
-  { icon: Capsule, title: "L-Glutamine", desc: "Speeds recovery. 5-10g post-workout." },
+  { icon: Package, title: "L-Glutamine", desc: "Speeds recovery. 5-10g post-workout." },
   { icon: Moon, title: "Casein Protein", desc: "Slow-release overnight recovery." },
 ];
 
