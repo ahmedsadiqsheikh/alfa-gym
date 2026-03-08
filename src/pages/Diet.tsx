@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import {
   Apple, Dumbbell, Flame, TrendingUp,
   Droplets, Drumstick, Wheat, Heart, Clock, Carrot,
-  FlaskConical, Zap, Pill, Leaf, Fish, Moon, Capsule, Sparkles,
+  FlaskConical, Zap, Pill, Leaf, Fish, Moon, Sparkles, Package,
   Sun, Coffee, UtensilsCrossed, Cookie, Bed
 } from "lucide-react";
 import SectionTitle from "@/components/SectionTitle";
